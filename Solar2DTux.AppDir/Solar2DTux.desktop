@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Solar2DTux
+Comment=Solar2DTux SDK
+Exec=usr/bin/Solar2DSimulator
+Icon=Solar2DTux
+Terminal=false
+Type=Application
+StartupNotify=true
+StartupWMClass=Solar2DSimulator
+Categories=Utility;

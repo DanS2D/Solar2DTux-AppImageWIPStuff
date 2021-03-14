@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Solar2DTux
+Comment=Solar2DTux SDK
+Exec=/opt/Solar2D/start.sh
+Icon=/opt/Solar2D/Resources/logo.png
+Terminal=false
+Type=Application
+StartupNotify=true
+StartupWMClass=Solar2DSimulator
